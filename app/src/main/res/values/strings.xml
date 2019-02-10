@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseFacebookLogin</string>
+    <string name="Email">E-mail adresi</string>
+    <string name="Login">Giriş Yap</string>
+    <string name="valid_password">Şifreyi doğrula</string>
+    <string name="parola">Şifre giriniz</string>
+    <string name="Signup">Kayıt Ol</string>
+</resources>

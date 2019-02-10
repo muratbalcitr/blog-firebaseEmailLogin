@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "141688643580",
+    "firebase_url": "https://blogyazilar.firebaseio.com",
+    "project_id": "blogyazilar",
+    "storage_bucket": "blogyazilar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141688643580:android:77933478f216c785",
+        "android_client_info": {
+          "package_name": "com.murat.firebasefacebooklogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141688643580-02usageqrm975vh1gd71498433j0jfm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.murat.firebasefacebooklogin",
+            "certificate_hash": "abf948b78aca43f3192bb1560ce71c31645f9c26"
+          }
+        },
+        {
+          "client_id": "141688643580-ve9dcmtktc74pl2h2120uhqih4055nmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDu9r3Ik9LfLzKPgULyflMnf0dv27D6SQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141688643580-ve9dcmtktc74pl2h2120uhqih4055nmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
